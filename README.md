@@ -1,4 +1,4 @@
-This is the NFT Minter starter template.
+
 
 ## Getting Started
 
@@ -7,4 +7,5 @@ Navigate into the donwloaded/cloned folder and install the dependencies typing t
 
 ```bash
 npm install
+npm run dev
 ```
