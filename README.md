@@ -1,4 +1,5 @@
-
+Stack: Next.js, Moralis, Pinata, IPFS, Rarible,
+Networks: Eth Mainnet and Rinkeby
 
 ## Getting Started
 
